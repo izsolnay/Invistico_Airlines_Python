@@ -1,6 +1,6 @@
 ![Image of Delta seat back](https://github.com/izsolnay/Invistico-Airlines/blob/d214e7280d79106d7a9471c29886141bb83262ea/Inflight%20entertainment.png)
 (*Image is of different airline seat used only for illustrative purposes. Invistico is not a real airline.)
-# Invistico Airlines Project: 1st case
+# Invistico Airlines Project
 **Objectives** \
 *1st case* \
 Invistico Airlines is interested in learning if a better inflight entertainment experience leads to higher customer satisfaction. They would like the construction and evaluation of a model that predicts whether a future customer would be satisfied with their services given previous customer feedback about their inflight entertainment experience. 
