@@ -1,3 +1,5 @@
+![Image of Delta seat back](https://github.com/izsolnay/Invistico-Airlines/blob/d214e7280d79106d7a9471c29886141bb83262ea/Inflight%20entertainment.png)
+(*Image is of different airline seat used only for illustrative purposes. Invistico is not a real airline.)
 # Invistico Airlines Project: 1st case
 **Objectives** \
 *1st case* \
