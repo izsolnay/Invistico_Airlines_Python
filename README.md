@@ -27,3 +27,5 @@ For this 2nd case, 3 tree based models are trained, tuned, evaluated, and compar
   3.	**Gradient Boosting (XGBoost)**: these models have a high accuracy rate, work well with missing data (which this data set has), are scalable, and can provide a weighted feature importance chart. However, as they are considered black-boxes, their steps cannot be seen (the trees cannot be produced).
 
 The goal will be to utilize the best decision tree model to predict whether or not a customer will be *satisfied*(y) with their flight experience based on multiple variables in the data set(Xs) and discover which variables are most predictive of that outcome.
+
+All code is located at: https://github.com/izsolnay/Invistico_Airlines_Python
